@@ -30,5 +30,5 @@ To improve model performance, hyperparameter combinations were selected using **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/airbnb-booking-prediction.git
+   git clone https://github.com/BerkayYLMZ5353/airbnb-booking-prediction.git
    ```
